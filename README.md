@@ -1,4 +1,4 @@
-### Olá! Sou Lucas Favaretto desenvolvedor Java!!!
+### Olá! Sou Lucas Favaretto Engenheiro de Software!!!
 
 <div>
   <a href="https://github.com/lucasmftto">
